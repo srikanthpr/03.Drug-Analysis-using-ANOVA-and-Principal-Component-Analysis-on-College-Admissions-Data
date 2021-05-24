@@ -3,7 +3,9 @@
 The project involved drawing inferences from 2 case studies, namely - Hay Fever Drug Analysis, College Admissions Data. The concepts of Exploratory Data Analysis, Analysis of Variance, and Principal Component Analysis are used to draw inferences from these case studies.
 
 ## Skills and Tools
-    -ANOVA, PCA, EDA
+    - ANOVA
+    - PCA
+    - EDA
 
 ## Problem 1: Drug Analysis using ANOVA
 A research laboratory was developing a new compound for the relief of severe cases of hay fever. In an experiment with 36 volunteers, the amounts of the two active ingredients (A & B) in the compound were varied at three levels each. Randomization was used in assigning four volunteers to each of the nine treatments. The data on hours of relief can be found in the following .csv file: Fever.csv
